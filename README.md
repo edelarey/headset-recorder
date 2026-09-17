@@ -1,8 +1,8 @@
 # Headset Recorder
 
-Linux GTK 3 app that records a PipeWire/Pulse **monitor** source (what you are hearing) to a 48 kHz stereo 32-bit float WAV via ffmpeg.
+Save anything you're listening to.
 
-It is meant for playback capture, not the microphone. Pick a `.monitor` source in the source list.
+Linux GTK 3 app that records a PipeWire/Pulse **monitor** source (what the headset is playing) to a 48 kHz stereo 32-bit float WAV via ffmpeg. It captures the incoming playback stream, not the microphone — pick a `.monitor` source.
 
 ## Dependencies
 
