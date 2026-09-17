@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Headset Recorder
+Comment=Record a PipeWire/Pulse monitor source to 32-bit float WAV
+Exec=headset-recorder
+TryExec=headset-recorder
+Icon=headset-recorder
+Terminal=false
+Categories=AudioVideo;Audio;Recorder;
+Keywords=record;audio;headset;wav;pulse;pipewire;ffmpeg;
+StartupNotify=true
+StartupWMClass=za.delarey.headsetrecorder

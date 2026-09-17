@@ -1,0 +1,10 @@
+# build artifacts
+headset-recorder
+headset-recorder.bin
+*.o
+*.out
+
+# local recordings / editor junk
+*.wav
+*~
+.DS_Store
